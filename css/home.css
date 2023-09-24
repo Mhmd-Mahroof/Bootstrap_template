@@ -1,0 +1,20 @@
+.box {
+    transition: background-color 0.3s; 
+}
+.box:hover {
+    background-color: rgba(201, 180, 180, 0.377);
+}
+#img1{
+    filter: blur(3px);
+}
+.h1{
+    text-shadow: 2px 2px 3px black;
+}
+.tr-bg {
+    background-color: rgba(245, 228, 228, 0.2); 
+  }
+::placeholder{
+  color: black;
+  padding: 10px;
+}
+
